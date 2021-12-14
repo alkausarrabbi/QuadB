@@ -1,2 +1,2 @@
-Internship Test
+Internship Test Solution
 
